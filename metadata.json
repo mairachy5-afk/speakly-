@@ -1,0 +1,6 @@
+{
+  "name": "Speakly",
+  "description": "AI English Speaking Coach for Bangla Learners - practice speaking, pronunciation, grammar, vocabulary, client meetings, and IELTS.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
